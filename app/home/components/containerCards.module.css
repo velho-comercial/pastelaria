@@ -1,0 +1,10 @@
+.container {
+    width: 992px;
+    margin:auto;
+    border-radius: 25px;
+    background-color: burlywood;
+    display:grid;
+    grid-template-rows: repeat(2, 200px); 
+    grid-template-columns: repeat(4, 200px);
+    gap: 65px;
+}

@@ -1,0 +1,22 @@
+.header {
+    border-radius: 25px;
+    border: 10px solid burlywood;
+    width:992px;
+    margin:auto;
+    margin-top:10px;
+    margin-bottom:20px;
+
+}
+
+.headerInnerText {
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    padding:40px;
+    font-size:25px;
+
+}
+
+.img {
+    width:50px;
+}

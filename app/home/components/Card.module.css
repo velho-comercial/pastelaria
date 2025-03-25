@@ -1,0 +1,29 @@
+.card {
+    background-color: darkgoldenrod;
+    margin:10px;
+    display: flex; /* Habilita o Flexbox para os filhos */
+    flex-direction: column; /* Organiza os filhos em coluna (um embaixo do outro) */
+    align-items: center; /* Centraliza os filhos horizontalmente ao longo do eixo transversal */
+    text-align: center;
+    border-radius: 10%;
+}
+
+.img {
+    width:100px;
+    
+}
+
+.txt {
+    font-size: 30px;
+}
+
+.txtSmall {
+    margin-top:10px;
+    font-size: 20px;
+}
+
+.txtLine {
+    text-decoration: line-through;
+    font-size: 30px;
+
+}
